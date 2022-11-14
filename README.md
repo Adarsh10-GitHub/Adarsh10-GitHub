@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar Bohidar</h1>
-<h3 align="center">A passionate coder from India</h3>
+<h3 align="center">A passionate and enthusiastic coder/developer from India</h3>
 
-- 🌱 I’m currently learning **Devops,Machine Learning**
+- 🌱 I’m currently learning **Machine Learning,Web development,MATLAB**
 
-- 👯 I’m looking to collaborate on **Web Development ,Full stack**
+- 👯 I’m looking to collaborate on **Web Development,Full stack ,Machine Learning Projects**
 
 - 📫 How to reach me **adarsh.bohidar@gmail.com**
 
-- ⚡ Fun fact **I think I'm good in finding solutions to a problem**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
