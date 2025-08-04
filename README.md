@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar Bohidar</h1>
 <h3 align="center">A passionate and enthusiastic coder/developer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning,Web development,MATLAB**
+- 🌱 I’m currently learning **Machine Learning,Data Engineering,IAM in Cybersecurity**
 
-- 👯 I’m looking to collaborate on **Web Development,Full stack ,Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Data Engineering and Machine Learning Projects**
 
 - 📫 How to reach me **adarsh.bohidar@gmail.com**
 
